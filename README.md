@@ -1,2 +1,2 @@
-# SpringBoot-salary
-基于SpringBoot的工资系统
+# SpringBoot  
+基于SpringBoot
